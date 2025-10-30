@@ -1,20 +1,21 @@
 export function ResearchSection() {
   const interests = [
     {
-      title: "人工智能与机器学习",
-      description: "深度学习、自然语言处理、计算机视觉等领域的研究与应用",
+      title: "Artificial intelligence and machine learning",
+      description: "Research and application in deep learning, natural language processing, computer vision and other fields",
     },
     {
-      title: "全栈Web开发",
-      description: "现代Web框架、微服务架构、云原生应用开发",
+      title: "Front-end development",
+      description: "html, css, javascript",
     },
     {
-      title: "数据科学",
-      description: "大数据分析、数据可视化、预测模型构建",
+      title: "Backend development",
+      description: "Java, c++, python",
+      
     },
     {
-      title: "开源技术",
-      description: "参与开源项目，贡献代码，推动技术社区发展",
+      title: "Data Science",
+      description: "Big data analysis, data visualization",
     },
   ]
 

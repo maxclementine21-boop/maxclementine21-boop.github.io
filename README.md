@@ -1,4 +1,13 @@
-# Personal website layout
+# Personal Website - Portfolio
+
+专业的个人作品集网站，展示个人信息、研究兴趣、教育经历和项目经验。
+
+## 部署到 GitHub Pages
+
+本项目配置为自动部署到 GitHub Pages。
+
+### 部署地址
+https://maxclementine21-boop.github.io/
 
 *Automatically synced with your [v0.app](https://v0.app) deployments*
 
@@ -28,3 +37,4 @@ Continue building your app on:
 2. Deploy your chats from the v0 interface
 3. Changes are automatically pushed to this repository
 4. Vercel deploys the latest version from this repository
+</merged_code

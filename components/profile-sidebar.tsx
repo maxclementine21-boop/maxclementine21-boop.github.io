@@ -13,8 +13,8 @@ export function ProfileSidebar() {
 
         {/* Name and Greeting */}
         <div className="text-center space-y-2">
-          <h1 className="text-4xl font-bold text-foreground">张三</h1>
-          <p className="text-lg text-muted-foreground">你好！欢迎来到我的个人主页</p>
+          <h1 className="text-4xl font-bold text-foreground">Zicheng Hao</h1>
+          <p className="text-lg text-muted-foreground">welcome to my homepage</p>
         </div>
 
         {/* Links */}

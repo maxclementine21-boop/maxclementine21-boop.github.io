@@ -8,7 +8,7 @@ export function ProfileSidebar() {
       <div className="flex flex-col items-center space-y-6 max-w-md">
         {/* Profile Photo */}
         <div className="relative w-48 h-48 rounded-full overflow-hidden border-4 border-primary/20">
-          <Image src="/professional-portrait.png" alt="Profile Photo" fill className="object-cover" priority />
+          <Image src="/professional-portrait.jpg" alt="Profile Photo" fill className="object-cover" priority />
         </div>
 
         {/* Name and Greeting */}

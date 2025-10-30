@@ -5,7 +5,7 @@ export function AboutSection() {
       <div className="text-muted-foreground leading-relaxed space-y-4">
         <p>
           I am a postgraduate student at the University of Manchester, majoring in Robotics. 
-          I graduated from Tianjin Polytechnic University with a bachelor's degree and have a passion for robot development.
+          I graduated from Tiangong University with a bachelor's degree and have a passion for robot development.
         </p>
       </div>
     </section>

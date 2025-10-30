@@ -31,7 +31,7 @@ export function ProfileSidebar() {
             className="gap-2 bg-primary/10 hover:bg-primary/20 border-primary/30"
             asChild
           >
-            <a href="/cv.pdf" target="_blank" rel="noopener noreferrer">
+            <a href="你的简历链接地址" target="_blank" rel="noopener noreferrer">
               <FileText className="w-5 h-5" />
               <span>CV</span>
             </a>
@@ -42,11 +42,7 @@ export function ProfileSidebar() {
             className="gap-2 bg-primary/10 hover:bg-primary/20 border-primary/30"
             asChild
           >
-            <a
-              href="https://github.com/maxclementine21-boop"
-              target="_blank"
-              rel="noopener noreferrer"
-            >
+            <a href="https://github.com/maxclementine21-boop" target="_blank" rel="noopener noreferrer">
               <Github className="w-5 h-5" />
               <span>GitHub</span>
             </a>

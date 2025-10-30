@@ -14,7 +14,11 @@ export function ProfileSidebar() {
         {/* Name and Greeting */}
         <div className="text-center space-y-2">
           <h1 className="text-4xl font-bold text-foreground">Zicheng Hao</h1>
-          <p className="text-lg text-muted-foreground">welcome to my homepage</p>
+          <p className="text-lg text-muted-foreground">
+            welcome to my homepage
+            <br />
+            在这里添加第二行内容
+          </p>
         </div>
 
         {/* Links */}

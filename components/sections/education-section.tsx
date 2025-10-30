@@ -4,20 +4,20 @@ import { ExternalLink } from "lucide-react"
 export function EducationSection() {
   const education = [
     {
-      school: "清华大学",
-      degree: "计算机科学与技术 硕士",
-      period: "2020 - 2023",
-      description: "研究方向：深度学习与自然语言处理。参与多个国家级科研项目，发表SCI论文2篇。",
-      image: "/tsinghua-university-campus.jpg",
-      link: "https://www.tsinghua.edu.cn",
+      school: "The University of Manchester",
+      degree: "Msc Robotics",
+      period: "2025 - 2026",
+      description: "Research Interests: Robot Applications.",
+      image: "/uom.jpg",
+      link: "https://www.manchester.ac.uk/",
     },
     {
-      school: "北京大学",
-      degree: "软件工程 学士",
-      period: "2016 - 2020",
-      description: "主修课程包括算法设计、数据结构、操作系统、数据库系统等。GPA: 3.8/4.0",
-      image: "/peking-university-campus.jpg",
-      link: "https://www.pku.edu.cn",
+      school: "Tiangong University",
+      degree: "Software Engineering Bachelor",
+      period: "2018 - 2022",
+      description: "Major courses include Algorithm Design, Data Structures, Operating Systems, Database Systems, etc. GPA: 3.4/4.0",
+      image: "/tgu.jpg",
+      link: "https://www.tiangong.edu.cn/",
     },
   ]
 

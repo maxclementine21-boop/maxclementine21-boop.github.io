@@ -31,7 +31,7 @@ export function ProfileSidebar() {
             className="gap-2 bg-primary/10 hover:bg-primary/20 border-primary/30"
             asChild
           >
-            <a href="你的简历链接地址" target="_blank" rel="noopener noreferrer">
+            <a href="cv.pdf" target="_blank" rel="noopener noreferrer">
               <FileText className="w-5 h-5" />
               <span>CV</span>
             </a>

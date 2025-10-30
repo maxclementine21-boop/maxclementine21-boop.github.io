@@ -5,11 +5,11 @@ import { Button } from "@/components/ui/button"
 export function ProjectsSection() {
   const projects = [
     {
-      title: "智能问答系统",
+      title: "yingji-Film and television tourism software",
       description:
-        "基于大语言模型的智能问答系统，支持多轮对话、上下文理解和知识检索。采用RAG架构，结合向量数据库实现高效的语义搜索。",
-      image: "/ai-chatbot-dashboard.png",
-      tags: ["Python", "LangChain", "OpenAI", "Vector DB"],
+        "A software system developed based on Springboot, which meets the needs of realizing tourism through films and television.",
+      image: "/yingji.png",
+      tags: ["Java", "Springboot"],
       github: "https://github.com/yourusername/qa-system",
       demo: "https://qa-demo.example.com",
     },
@@ -22,15 +22,15 @@ export function ProjectsSection() {
       github: "https://github.com/yourusername/ecommerce-platform",
       demo: "https://ecommerce-demo.example.com",
     },
-    {
-      title: "图像识别应用",
-      description:
-        "基于深度学习的图像识别移动应用，支持物体检测、图像分类和语义分割。模型部署在边缘设备上，实现实时推理。",
-      image: "/image-recognition-mobile-app.jpg",
-      tags: ["TensorFlow", "React Native", "Python", "Docker"],
-      github: "https://github.com/yourusername/image-recognition",
-      demo: "https://image-demo.example.com",
-    },
+    // {
+    //   title: "图像识别应用",
+    //   description:
+    //     "基于深度学习的图像识别移动应用，支持物体检测、图像分类和语义分割。模型部署在边缘设备上，实现实时推理。",
+    //   image: "/image-recognition-mobile-app.jpg",
+    //   tags: ["TensorFlow", "React Native", "Python", "Docker"],
+    //   github: "https://github.com/yourusername/image-recognition",
+    //   demo: "https://image-demo.example.com",
+    // },
   ]
 
   return (
@@ -60,13 +60,13 @@ export function ProjectsSection() {
                   <Button variant="outline" size="sm" className="gap-2 bg-transparent" asChild>
                     <a href={project.github} target="_blank" rel="noopener noreferrer">
                       <Github className="w-4 h-4" />
-                      <span>代码</span>
+                      <span>Code</span>
                     </a>
                   </Button>
                   <Button variant="outline" size="sm" className="gap-2 bg-transparent" asChild>
                     <a href={project.demo} target="_blank" rel="noopener noreferrer">
                       <ExternalLink className="w-4 h-4" />
-                      <span>演示</span>
+                      <span>Demonstration</span>
                     </a>
                   </Button>
                 </div>

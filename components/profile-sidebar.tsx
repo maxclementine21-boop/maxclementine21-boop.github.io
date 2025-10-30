@@ -17,7 +17,9 @@ export function ProfileSidebar() {
           <p className="text-lg text-muted-foreground">
             welcome to my homepage
             <br />
-            在这里添加第二行内容
+            the University of Manchester
+            <br />
+            zicheng.hao@student.manchester.ac.uk
           </p>
         </div>
 
@@ -31,7 +33,7 @@ export function ProfileSidebar() {
           >
             <a href="/cv.pdf" target="_blank" rel="noopener noreferrer">
               <FileText className="w-5 h-5" />
-              <span>简历</span>
+              <span>CV</span>
             </a>
           </Button>
           <Button
@@ -41,7 +43,7 @@ export function ProfileSidebar() {
             asChild
           >
             <a
-              href="https://github.com/maxclementine21-boop/maxclementine21-boop.github.io"
+              href="https://github.com/maxclementine21-boop"
               target="_blank"
               rel="noopener noreferrer"
             >

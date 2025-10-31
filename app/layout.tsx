@@ -7,9 +7,9 @@ const _geist = Geist({ subsets: ["latin"] });
 const _geistMono = Geist_Mono({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: 'v0 App',
+  title: 'Zicheng Hao's personal web ',
   description: 'Created with v0',
-  generator: 'v0.app',
+  generator: '',
 }
 
 export default function RootLayout({

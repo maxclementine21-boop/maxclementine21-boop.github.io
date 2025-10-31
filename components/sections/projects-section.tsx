@@ -11,7 +11,7 @@ export function ProjectsSection() {
       image: "/yingji.jpeg",
       tags: ["Java", "Springboot"],
       github: "https://github.com/maxclementine21-boop",
-      demo: "",
+      demo: "/yingji.jpeg",
     },
     {
       title: "Design of Smart Agriculture Management System",

@@ -8,19 +8,19 @@ export function ProjectsSection() {
       title: "yingji-Film and television tourism software",
       description:
         "A software system developed based on Springboot, which meets the needs of realizing tourism through films and television.",
-      image: "/yingji.png",
+      image: "/yingji.jepg",
       tags: ["Java", "Springboot"],
-      github: "https://github.com/yourusername/qa-system",
-      demo: "https://qa-demo.example.com",
+      github: "https://github.com/maxclementine21-boop",
+      demo: "",
     },
     {
-      title: "电商管理平台",
+      title: "Design of Smart Agriculture Management System",
       description:
-        "全栈电商管理系统，包含商品管理、订单处理、用户管理、数据分析等功能。采用微服务架构，支持高并发访问。",
-      image: "/ecommerce-dashboard-analytics.png",
-      tags: ["Next.js", "Node.js", "PostgreSQL", "Redis"],
-      github: "https://github.com/yourusername/ecommerce-platform",
-      demo: "https://ecommerce-demo.example.com",
+        "Using sensor monitoring readings to make agriculture more modern, more digital, and more controllable",
+      image: "/Android.jpeg",
+      tags: ["Android", "C++"],
+      github: "https://github.com/maxclementine21-boop",
+      demo: "",
     },
     // {
     //   title: "图像识别应用",

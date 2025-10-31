@@ -16,7 +16,7 @@ export function ProjectsSection() {
     {
       title: "Design of Smart Agriculture Management System",
       description:
-        "Using sensor monitoring readings to make agriculture more modern, more digital, and more controllable",
+        "Using sensor monitoring readings to make agriculture more modern, more digital, and more controllable.",
       image: "/Android.jpeg",
       tags: ["Android", "C++"],
       github: "https://github.com/maxclementine21-boop",

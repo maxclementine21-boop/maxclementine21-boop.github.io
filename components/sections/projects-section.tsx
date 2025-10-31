@@ -8,7 +8,7 @@ export function ProjectsSection() {
       title: "yingji-Film and television tourism software",
       description:
         "A software system developed based on Springboot, which meets the needs of realizing tourism through films and television.",
-      image: "/yingji.jepg",
+      image: "/yingji.jpeg",
       tags: ["Java", "Springboot"],
       github: "https://github.com/maxclementine21-boop",
       demo: "",

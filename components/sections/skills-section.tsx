@@ -1,28 +1,28 @@
 export function SkillsSection() {
   const skillCategories = [
     {
-      category: "编程语言",
-      skills: ["Python", "JavaScript", "TypeScript", "Java", "C++", "Go"],
+      category: "Programming language",
+      skills: ["Python", "JavaScript", "PHP", "Java", "C++"],
     },
     {
-      category: "前端技术",
-      skills: ["React", "Next.js", "Vue.js", "Tailwind CSS", "HTML5", "CSS3"],
+      category: "Front-end technology",
+      skills: ["React", "Next.js", "Vue.js", "HTML5", "CSS3"],
     },
     {
-      category: "后端技术",
-      skills: ["Node.js", "Express", "Django", "FastAPI", "Spring Boot", "GraphQL"],
+      category: "Backend technology",
+      skills: ["Node.js", "Express", "Spring Boot", "GraphQL"],
     },
     {
-      category: "数据库",
-      skills: ["PostgreSQL", "MySQL", "MongoDB", "Redis", "Elasticsearch"],
+      category: "Database",
+      skills: ["MySQL", "MongoDB", "Redis", "Elasticsearch"],
     },
+    // {
+    //   category: "机器学习",
+    //   skills: ["TensorFlow", "PyTorch", "Scikit-learn", "Keras", "OpenCV", "Hugging Face"],
+    // },
     {
-      category: "机器学习",
-      skills: ["TensorFlow", "PyTorch", "Scikit-learn", "Keras", "OpenCV", "Hugging Face"],
-    },
-    {
-      category: "开发工具",
-      skills: ["Git", "Docker", "Kubernetes", "AWS", "CI/CD", "Linux"],
+      category: "Development tools",
+      skills: ["Git", "Docker", "Kubernetes", "Linux"],
     },
   ]
 

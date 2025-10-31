@@ -4,15 +4,15 @@ export function ResearchSection() {
       title: "Artificial intelligence and machine learning",
       description: "Research and application in deep learning, natural language processing, computer vision and other fields",
     },
-    {
-      title: "Front-end development",
-      description: "html, css, javascript",
-    },
-    {
-      title: "Backend development",
-      description: "Java, c++, python",
+    // {
+    //   title: "Front-end development",
+    //   description: "html, css, javascript",
+    // },
+    // {
+    //   title: "Backend development",
+    //   description: "Java, c++, python",
       
-    },
+    // },
     {
       title: "Data Science",
       description: "Big data analysis, data visualization",

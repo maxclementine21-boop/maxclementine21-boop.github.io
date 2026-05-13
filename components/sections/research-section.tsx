@@ -35,7 +35,7 @@ export function ResearchSection() {
         ))}
       </div>
 
-      {/* Focused Research Section */}
+      {/* Focused Research - Machine Learning */}
       <div className="space-y-4 mt-8">
         {focusedResearch.map((research, index) => (
           <div

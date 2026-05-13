@@ -3,6 +3,7 @@ import { ResearchSection } from "@/components/sections/research-section"
 import { EducationSection } from "@/components/sections/education-section"
 import { ProjectsSection } from "@/components/sections/projects-section"
 import { SkillsSection } from "@/components/sections/skills-section"
+import { ObjectivesSection } from "@/components/sections/objectives-section"
 
 export function MainContent() {
   return (
@@ -13,6 +14,7 @@ export function MainContent() {
         <EducationSection />
         <ProjectsSection />
         <SkillsSection />
+        <ObjectivesSection />
       </div>
     </main>
   )

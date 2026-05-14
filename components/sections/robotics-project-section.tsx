@@ -38,7 +38,7 @@ export function RoboticsProjectSection() {
       <div className="space-y-2">
         <h2 className="text-3xl font-bold text-foreground border-b border-border pb-3">MSc Robotics Project Evidence</h2>
         <p className="text-muted-foreground leading-relaxed">
-          This section summarises selected evidence from my MSc Robotics work. It is intended to support my CPD reflection and show how my technical skills have developed during the programme.
+          This section summarises selected evidence from my MSc Robotics work.
         </p>
       </div>
 

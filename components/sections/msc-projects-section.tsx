@@ -8,13 +8,26 @@ export function MscProjectsSection() {
       projects: [
         {
           name: "Path Planning",
-          description: "Implementation of path planning algorithms for autonomous mobile robots, including A*, RRT, and Dijkstra algorithms.",
+          description:
+            "Implementation of path planning algorithms for autonomous mobile robots, including A*, RRT, and Dijkstra algorithms.",
           github: "https://github.com/maxclementine21-boop/path-planning",
         },
         {
           name: "Feedback Control",
-          description: "Feedback control systems for robot navigation, including PID controllers and state-space control methods.",
-          github: "https://github.com/maxclementine21-boop/feedback-control",
+          description:
+            "Feedback control systems for robot navigation, including PID controllers and state-space control methods.",
+          github: "https://github.com/maxclementine21-boop/feed-back-control",
+        },
+      ],
+    },
+    {
+      title: "Robotic Systems Design Project",
+      projects: [
+        {
+          name: "Autonomous Colour Object Retrieval Robot",
+          description:
+            "A team-based robotics design project focused on developing a robot that can autonomously search for coloured objects, retrieve them, return to the starting point, and place them into a matching coloured bin. My main responsibility was object detection, supporting the robot in identifying target objects during the retrieval task.",
+          github: "https://github.com/UoMTeam3/Autonomous-Color-Object-Retrieval-Robot",
         },
       ],
     },

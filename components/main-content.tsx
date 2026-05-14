@@ -6,7 +6,6 @@ import { SkillsSection } from "@/components/sections/skills-section"
 import { ObjectivesSection } from "@/components/sections/objectives-section"
 import { RoboticsProjectSection } from "@/components/sections/robotics-project-section"
 import { MscProjectsSection } from "@/components/sections/msc-projects-section"
-import { CpdSection } from "@/components/sections/cpd-section"
 
 export function MainContent() {
   return (
@@ -20,7 +19,6 @@ export function MainContent() {
         <ProjectsSection />
         <SkillsSection />
         <ObjectivesSection />
-        <CpdSection />
       </div>
     </main>
   )

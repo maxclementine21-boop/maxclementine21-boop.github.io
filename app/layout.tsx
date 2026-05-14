@@ -1,15 +1,13 @@
-import type { Metadata } from 'next'
-import { Geist, Geist_Mono } from 'next/font/google'
-import { Analytics } from '@vercel/analytics/next'
-import './globals.css'
+import type React from "react"
+import type { Metadata } from "next"
+import { Analytics } from "@vercel/analytics/next"
+import "./globals.css"
 
-const _geist = Geist({ subsets: ["latin"] });
-const _geistMono = Geist_Mono({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: 'Zicheng Hao personal web ',
-  description: 'Created with v0',
-  generator: '',
+  title: "Zicheng Hao | MSc Robotics Portfolio",
+  description: "Personal portfolio and CPD evidence for MSc Robotics projects, software engineering and robotics development.",
+  generator: "Next.js",
 }
 
 export default function RootLayout({

@@ -5,6 +5,10 @@ export function SkillsSection() {
       skills: ["Python", "JavaScript", "PHP", "Java", "C++"],
     },
     {
+      category: "Robotics and AI",
+      skills: ["ROS2", "Gazebo", "Navigation", "YOLO", "OpenCV", "Machine Learning"],
+    },
+    {
       category: "Front-end technology",
       skills: ["React", "Next.js", "Vue.js", "HTML5", "CSS3"],
     },
@@ -16,10 +20,6 @@ export function SkillsSection() {
       category: "Database",
       skills: ["MySQL", "MongoDB", "Redis", "Elasticsearch"],
     },
-    // {
-    //   category: "机器学习",
-    //   skills: ["TensorFlow", "PyTorch", "Scikit-learn", "Keras", "OpenCV", "Hugging Face"],
-    // },
     {
       category: "Development tools",
       skills: ["Git", "Docker", "Kubernetes", "Linux"],

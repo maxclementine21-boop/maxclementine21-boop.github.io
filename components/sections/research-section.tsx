@@ -1,21 +1,20 @@
 export function ResearchSection() {
   const interests = [
     {
-      title: "Artificial intelligence and machine learning",
-      description: "Research and application in deep learning, natural language processing, computer vision and other fields",
+      title: "Robotics and Autonomous Systems",
+      description: "Navigation, path planning, control and system integration for mobile robots and robotic platforms.",
     },
-    // {
-    //   title: "Front-end development",
-    //   description: "html, css, javascript",
-    // },
-    // {
-    //   title: "Backend development",
-    //   description: "Java, c++, python",
-      
-    // },
     {
-      title: "Data Science",
-      description: "Big data analysis, data visualization",
+      title: "Artificial Intelligence and Machine Learning",
+      description: "Deep learning, computer vision and data-driven methods for perception and decision-making.",
+    },
+    {
+      title: "Robot Perception",
+      description: "Object detection, depth sensing, sensor evaluation and practical perception pipelines for robotic tasks.",
+    },
+    {
+      title: "Data Analysis and Evaluation",
+      description: "Experimental testing, performance comparison, data visualisation and evidence-based engineering conclusions.",
     },
   ]
 
